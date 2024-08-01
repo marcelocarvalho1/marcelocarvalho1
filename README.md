@@ -20,7 +20,10 @@
 <div  align="center"> 
     <a href="https://www.linkedin.com/in/a-marcelo-carvalho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "marceloo.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  
+</div>
+<br>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/marcelocarvalho1/count.svg?"  />
 </div>
 
 <div align="center">
