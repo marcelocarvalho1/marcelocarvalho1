@@ -40,8 +40,5 @@
 </div>
 
 <br>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/marcelocarvalho1/count.svg?" alt="Contador de visitas no perfil" />
-</div>
 
 ###
