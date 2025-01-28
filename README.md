@@ -11,7 +11,6 @@
     height="150" 
     alt="Gráfico com as principais linguagens utilizadas por Marcelo Carvalho" />
 </div>
-
 <div style="display: inline_block" align="center"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="Logo do HTML5" />
   <img width="12" />
