@@ -25,7 +25,6 @@
  <img src="https://profilinator.rishav.dev/skills-assets/styled-components.png" height="40" alt="Styled Components logo" />
  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="40" alt="React logo" />
 <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="40" alt="Linux logo" />
-
 </div>
 </div>
 
