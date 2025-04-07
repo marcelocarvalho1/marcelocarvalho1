@@ -27,6 +27,7 @@
 <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="40" alt="Linux logo" />
 </div>
 </div>
+
 <br>
 <div align="center"> 
   <a href="https://www.linkedin.com/in/a-marcelo-carvalho/" target="_blank">
