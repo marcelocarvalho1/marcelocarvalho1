@@ -24,8 +24,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="40" alt="Logo do Bootstrap" />
   <img width="12" />
  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="40" alt="React logo" />
-  <img width="12" />
-<img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="40" alt="Linux logo" />
+ <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+ <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+ <img width="12" />
+ <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="40" alt="Linux logo" />
+
+
+###
 </div>
 </div>
 <br>
