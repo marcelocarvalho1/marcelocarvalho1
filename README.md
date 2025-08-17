@@ -1,9 +1,8 @@
           
 <div align="center">
-  <h2>Hello, I'm Marcelo Carvalho 🤓</h2>
+  <h3>Hello, I'm Marcelo Carvalho 🤓</h3>
 </div>
 <br>     
-
 <div align="center">
   <a href="https://www.linkedin.com/in/a-marcelo-carvalho/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -15,7 +14,7 @@
 
 ###
 
-<h4 align="center">🔥   My Status :</h4>
+<h5 align="center">🔥   My Status :</h5>
 
 ###
 
@@ -25,7 +24,7 @@
 
 ###
 
-<h4 align="center">🛠 Language and tools</h4>
+<h5 align="center">🛠 Language and tools</h5>
 
 ###
 
