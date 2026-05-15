@@ -14,8 +14,6 @@
 
 ###
 
-<h5 align="center">🔥   My Status :</h5>
-
 ###
 
 <div align="center">
